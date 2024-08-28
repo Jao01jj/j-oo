@@ -1,0 +1,33 @@
+body{
+    color: white;
+    background-color: black;
+    text-align: center;
+}
+
+    img{
+        height: 10mm;
+    }
+header{
+    color: red;
+    font-family:sn;
+    font-size:5mm;
+}
+h1{
+    color: rgb(254,215,0);
+    font-family: juicy;
+    font-size: 14mm;
+}
+h2{
+font-family: ip;
+}
+iframe{
+    border-radius: 10mm;
+}
+h3{
+    color: white;
+    font-family: juicy;
+    font-size: 6mm;
+}
+*img{
+    height: 200mm;
+}
